@@ -6,8 +6,8 @@ This is my LinkedIn profile: [https://www.linkedin.com/in/matiaskloster/](https:
 mindmap
   root((About me))
     Academic
-      Bachelor of Science<br>in Engineering<br>at Instituto Balseiro
-      Master of Science<br>Machine Learning<br>at Instituto Balseiro
+      5 years Bachelor of Science<br>in Engineering<br>at Instituto Balseiro
+      Master of Science<br>in Machine Learning<br>at Instituto Balseiro
     Working at
       Marvik.ai
 ```
