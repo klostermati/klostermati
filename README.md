@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-This is my LinkedIn profile: [https://www.linkedin.com/in/matiaskloster/](https://www.linkedin.com/in/matiaskloster/)
-
 ``` mermaid
 mindmap
   root((About me))
