@@ -6,7 +6,7 @@ mindmap
       5 years Bachelor of Science<br>in Engineering<br>at Instituto Balseiro
       Master of Science<br>in Machine Learning<br>at Instituto Balseiro
     Working at
-      Marvik.ai
+      Factored.ai
 ```
 
 
