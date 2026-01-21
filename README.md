@@ -1,5 +1,6 @@
 
 ``` mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e8d4f2', 'primaryTextColor':'#000000', 'primaryBorderColor':'#b39ddb', 'secondaryColor':'#c8e6c9', 'secondaryTextColor':'#000000', 'secondaryBorderColor':'#81c784', 'tertiaryColor':'#b3e5fc', 'tertiaryTextColor':'#000000', 'tertiaryBorderColor':'#4fc3f7'}}}%%
 mindmap
   root((About me))
     Academic
