@@ -1,28 +1,22 @@
+```mermaid
+gantt
+    title My Professional Life
+    dateFormat  YYYY-MM
+    axisFormat  %Y
 
-``` mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e8d4f2', 'primaryTextColor':'#000000', 'primaryBorderColor':'#b39ddb', 'secondaryColor':'#c8e6c9', 'secondaryTextColor':'#000000', 'secondaryBorderColor':'#81c784', 'tertiaryColor':'#b3e5fc', 'tertiaryTextColor':'#000000', 'tertiaryBorderColor':'#4fc3f7'}}}%%
-mindmap
-  root((About me))
-    Academic
-      5 years Bachelor of Science<br>in Engineering<br>at Instituto Balseiro
-      Master of Science<br>in Machine Learning<br>at Instituto Balseiro
-    Working at
-      Factored.ai
+    section 🎓 academic
+    B.Sc. Mech. Eng. · UNComa        :2014-01, 2016-05
+    B.Sc. Mech. Eng. · Balseiro      :2016-06, 2019-05
+    M.Sc. ML · Balseiro              :2019-06, 2023-06
+
+    section 💼 experience
+    CNEA · Intern                    :2018-07, 2021-01
+    Go2Future · MLE                  :2021-02, 2022-01
+    Marvik · MLE                     :2022-01, 2023-03
+    Marvik · Sr. MLE                 :2023-03, 2025-05
+    Factored · Sr. MLE + CTL ¹         :active, 2025-06, 2028-12
 ```
 
+📎 More details on my [LinkedIn profile](https://www.linkedin.com/in/matiaskloster/)
 
-
-<!--
-**klostermati/klostermati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ¹ The Factored bar extends to a placeholder date; this is my current position.
