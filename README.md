@@ -4,12 +4,12 @@ gantt
     dateFormat  YYYY-MM
     axisFormat  %Y
 
-    section 🎓 academic
+    section 🎓 Academic
     B.Sc. Mech. Eng. · UNComa        :2014-01, 2016-05
     B.Sc. Mech. Eng. · Balseiro      :2016-06, 2019-05
     M.Sc. ML · Balseiro              :2019-06, 2023-06
 
-    section 💼 experience
+    section 💼 Experience
     CNEA · Intern                    :2018-07, 2021-01
     Go2Future · MLE                  :2021-02, 2022-01
     Marvik · MLE                     :2022-01, 2023-03
